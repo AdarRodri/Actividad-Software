@@ -1,0 +1,52 @@
+- Desarrollo Android -
+- ¿Qué es? -
+
+El Desarrollo Android es el proceso de crear aplicaciones para dispositivos que usan el sistema operativo Android, creado por Google.
+Estas aplicaciones se programan principalmente en lenguajes como Java, Kotlin y, en menor medida, C++.
+El entorno oficial para programar se llama Android Studio, que incluye todas las herramientas necesarias (editor de código, emulador, depuración, librerías).
+
+- ¿Para qué sirve? -
+
+Permite construir aplicaciones móviles (apps) para teléfonos y tabletas con Android.
+
+También se pueden crear apps para relojes inteligentes (Wear OS), televisores (Android TV), automóviles (Android Auto) y hasta dispositivos IoT.
+
+Es el camino para que empresas, instituciones y desarrolladores lleven sus ideas, servicios y productos a millones de usuarios en todo el mundo.
+
+Con el desarrollo Android, los creadores pueden publicar sus apps en Google Play Store, alcanzando a un mercado global.
+
+ - Fechas y evolución importante -
+
+2003: Nace Android Inc., fundada por Andy Rubin y su equipo.
+
+2005: Google compra Android Inc.
+
+2007: Se presenta oficialmente Android al mundo.
+
+2008: Sale el primer teléfono con Android: el HTC Dream (también llamado T-Mobile G1).
+
+2013: Google lanza Android Studio, el IDE oficial para desarrollo.
+
+2017: Google anuncia Kotlin como lenguaje oficial junto con Java.
+
+Actualidad (2020s): Android domina el mercado global de smartphones (más del 70% de los teléfonos en el mundo usan Android).
+
+- Datos interesantes
+
+Android es código abierto (basado en el proyecto AOSP: Android Open Source Project).
+
+Cada versión de Android solía llevar nombre de postres (Cupcake, Dnut, Oreo…), pero desde Android 10 se usan solo números.
+
+Google publica actualizaciones anuales que incluyen nuevas funciones y mejoras de seguridad.
+
+Kotlin se ha convertido en el lenguaje preferido para nuevos proyectos, aunque Java sigue siendo muy usado.
+
+- Conclusión -
+
+El Desarrollo Android es fundamental en la era digital porque:
+
+Permite crear aplicaciones móviles para millones de usuarios.
+
+Está en constante evolución, adaptándose a nuevas tecnologías (IA, realidad aumentada, 5G).
+
+Ofrece una enorme oportunidad de innovación, empleo y crecimiento en el mundo del software.
