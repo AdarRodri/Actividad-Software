@@ -1,1 +1,58 @@
+Ejemplos de Aplicaciones Android
+
+WhatsApp → app de mensajería instantánea usada globalmente.
+
+Instagram → red social enfocada en fotos y videos.
+
+Spotify → plataforma de música en streaming.
+
+Uber → app de transporte y movilidad.
+
+Duolingo → aplicación educativa para aprender idiomas.
+
+Google Maps: navegación y mapas en tiempo real.
+
+jemplos de Versiones de Android
+
+Android ha evolucionado con nombres de postres (hasta 2019) y después con números. Algunos hitos:
+
+Android 1.0 (2008) → primera versión oficial.
+
+Android 2.3 Gingerbread (2010) → mejoras en interfaz y rendimiento.
+
+Android 4.0 Ice Cream Sandwich (2011) → unificación de interfaz en tablets y móviles.
+
+Android 5.0 Lollipop (2014) → diseño Material Design.
+
+Android 6.0 Marshmallow (2015) → permisos granulares.
+
+Android 8.0 Oreo (2017) → notificaciones agrupadas y mejor batería.
+
+Android 10 (2019) → primera versión sin nombre de postre.
+
+Android 13 (2022) → personalización avanzada y más seguridad.
+
+Android 14 (2023) → mejoras en rendimiento y optimización de apps.
+
+Casos de Uso (¿dónde se aplica el desarrollo Android?)
+
+Banca digital → apps como Nequi, Daviplata, Bancolombia.
+
+Salud → aplicaciones de telemedicina, monitoreo de pacientes.
+
+Educación → apps de cursos como Coursera, Platzi.
+
+Transporte y logística → apps de domicilios como Rappi y Didi.
+
+Videojuegos móviles → Clash Royale, Free Fire, PUBG Mobile.
+
+Domótica (IoT) → apps para controlar luces, cámaras y dispositivos inteligentes.
+
+Lenguajes y Herramientas como ejemplo
+
+Java → primer lenguaje oficial para Android.
+
+Kotlin → desde 2017 es el lenguaje recomendado por Google.
+
+Android Studio → IDE oficial con emulador, depuración y librerías.
 
