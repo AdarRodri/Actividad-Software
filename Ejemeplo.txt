@@ -10,7 +10,7 @@ Uber → app de transporte y movilidad.
 
 Duolingo → aplicación educativa para aprender idiomas.
 
-Google Maps → navegación y mapas en tiempo real.
+Google Maps: navegación y mapas en tiempo real.
 
 jemplos de Versiones de Android
 
